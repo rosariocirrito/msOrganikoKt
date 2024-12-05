@@ -1,0 +1,51 @@
+127.0.0.1:9011//api/findIncarichiApicaliByAssessoratoIDAndAnno/951/2021 // agricoltura
+
+127.0.0.1:9011//api/findIncaricoById/7761									// "responsabile": "DIRIGENTE GENERALE - PULIZZI Alberto",
+127.0.0.1:9011//api/findIncarichiApicaliByDipartimentoIDAndAnno/24133/2021	// agricoltura
+127.0.0.1:9011//api/findIncarichiApicaliByDipartimentoIDAndAnno/46/2021 	// segreteria generale
+127.0.0.1:9011//api/findIncarichiByDipartimentoIDAndAnno/46/2021
+127.0.0.1:9011//api/findIncarichiDirigenzialiByDipartimentoIDAndAnno/46/2021
+127.0.0.1:9011//api/findIncarichiPopByDipartimentoIDAndAnno/46/2021
+127.0.0.1:9011//api/findIncarichiByDipartimentoIDAndAnno/24133/2021
+127.0.0.1:9011//api/findIncarichiPopByDipartimentoIDAndAnno/24133/2021
+127.0.0.1:9011//api/findIncarichiByStrutturaIDAndAnno/26950/2021
+127.0.0.1:9011//api/findIncarichiByDirigenteIDAndAnno/11077/2021
+127.0.0.1:9011//api/findIncarichiByDirigenteIDAndAnno/531/2021
+
+127.0.0.1:9011//api/findIncarichiByStrutturaIDAndAnno/27781/2021 // SG_SERV06_POP1  ok Ribisi
+127.0.0.1:9011//api/findIncarichiByStrutturaIDAndAnno/27828/2021 // SG_SERV06_uo1_pop2test Simonetti ok
+127.0.0.1:9011//api/findIncarichiByStrutturaIDAndAnno/27800/2021 // SG_S6_UO_POtest 491 Lo Giudice
+
+172.28.109.93:9011//api/findIncaricoById/7761
+172.28.109.93:9011//api/findIncarichiApicaliByDipartimentoIDAndAnno/24133/2021 // agricoltura
+172.28.109.93:9011//api/findIncarichiApicaliByDipartimentoIDAndAnno/46/2021 	// segreteria generale
+172.28.109.93:9011//api/findIncarichiByDipartimentoIDAndAnno/46/2021
+172.28.109.93:9011//api/findIncarichiByDipartimentoIDAndAnno/24133/2021
+172.28.109.93:9011//api/findIncarichiPopByDipartimentoIDAndAnno/24133/2021
+172.28.109.93:9011//api/findIncarichiByStrutturaIDAndAnno/26950/2021
+172.28.109.93:9011//api/findIncarichiPopByStrutturaIDAndAnno/26950/2021
+172.28.109.93:9011//api/findIncarichiPopByStrutturaIDAndAnno/25029/2021
+172.28.109.93:9011//api/findIncarichiByDirigenteIDAndAnno/11077/2021
+172.28.109.93:9011//api/findIncarichiByDirigenteIDAndAnno/531/2021
+
+// -------------------------------------------
+127.0.0.1:9011//api/findPersonaFisicaById/552									// Aprile
+127.0.0.1:9011//api/findDipendentiStrictByStrutturaIDAndAnno/24726/2021			// Area 1
+127.0.0.1:9011//api/findDipendentiGlobalByStrutturaIDAndAnno/24726/2021			// Area 1
+127.0.0.1:9011//api/findDipendentiStrictByStrutturaIDAndAnno/26824/2021			// Servizio 7
+127.0.0.1:9011//api/findDipendentiGlobalByStrutturaIDAndAnno/26824/2021			// Servizio 7
+127.0.0.1:9011//api/findDipendentiStrictByStrutturaIDAndAnno/26736/2021			// Servizio 6
+127.0.0.1:9011//api/findDipendentiGlobalByStrutturaIDAndAnno/26736/2021			// Servizio 6
+127.0.0.1:9011//api/findDipendentiByDipartimentoIDAndAnno/46/2021
+
+
+// --------------------------------------------
+127.0.0.1:9011//api/findPersonaGiuridicaById/46									 // 1
+127.0.0.1:9011//api/findDipartimentoByPersonaGiuridicaId/26736					 // 2
+127.0.0.1:9011//api/findDipartimentoByPersonaFisicaId/531						 // 3
+127.0.0.1:9011//api/findAssessoratoByPersonaFisicaId/531						 // 4
+127.0.0.1:9011//api/listSubStruttureByDipartimentoIDAndAnno/46/2021				 //5
+127.0.0.1:9011//api/listAssessoratiAndAnno/2021									 //6
+127.0.0.1:9011//api/listDipartimentiByAssessoratoIDAndAnno/44/2021				 //7
+127.0.0.1:9011//api/findStruttureByStrutturaPadreIDAndAnno/46/2021				//8 
+
